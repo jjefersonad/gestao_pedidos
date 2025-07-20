@@ -37,7 +37,7 @@ O ambiente completo (Aplicação, Banco de Dados PostgreSQL e Kafka) é orquestr
 
 1.  **Clone o repositório** (se ainda não o fez):
     ```bash
-    git clone <url-do-seu-repositorio>
+    git clone <url-do-repositorio>
     cd gestaopedidos
     ```
 
